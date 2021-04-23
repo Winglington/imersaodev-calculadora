@@ -16,9 +16,3 @@ if (operacao == 1) {
 } else {
   document.write("<h2> OPÇÃO INVALIDA </H2>")
 }
-//	escrevendo	na	tela =	document.write()
-//	concatenação	(juntar	palavra	com	variáveis)	-	("palavra"	+	variavel)
-//	==	comparação	é	diferente	do	=	que	usamos	para	fazer	atribuição
-//	if	=	se
-//	else	=	se	não
-//	else	if	=	se	não	se
